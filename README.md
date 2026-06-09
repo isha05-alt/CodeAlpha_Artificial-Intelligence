@@ -1,0 +1,24 @@
+A desktop-based Language Translation Tool built using Python Tkinter and Deep Translator.
+
+#Features
+
+* Translate text between multiple languages
+* Source and target language selection
+* Copy translated text
+* Listen to translated text pronunciation
+* User-friendly graphical interface
+
+#Technologies Used
+
+* Python
+* Tkinter
+* Deep Translator
+* pyttsx3
+
+#How to Run
+
+1. Install required libraries:
+   pip install deep-translator pyttsx3
+
+2. Run:
+   python3 translator.py
